@@ -1,2 +1,1 @@
-# ronankleu
-geog3540/ronankleu - Ronan Kleu
+This is a respository for my Geovisualization portfolio.
